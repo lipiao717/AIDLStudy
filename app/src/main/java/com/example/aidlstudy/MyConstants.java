@@ -13,4 +13,5 @@ public class MyConstants {
             + File.separator + "CATCH";
     public static final String CACHE_FILE_PATH = CHAPTER_2_PATH + File.separator + "cached.txt";
     public static final int MSG_FROM_CLIENT = 0x3443;
+    public static final int MSG_FROM_SERVICE = 0x3443;
 }
